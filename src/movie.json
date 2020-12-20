@@ -1,0 +1,125 @@
+{
+    "Item": [
+        {
+            "name": "조제",
+            "genre": "멜로",
+            "country": "한국",
+            "opened": "2020.12.10",
+            "director": "김종관",
+            "casts": [
+                "김주혁",
+                "한지민"
+            ],
+            "grade": "15",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=199393"
+        },
+        {
+            "name": "이웃사촌",
+            "genre": "코미디",
+            "country": "한국",
+            "opened": "2020.11.25",
+            "director": "이환경",
+            "casts": [
+                "정우",
+                "오달수",
+                "김희원"
+            ],
+            "grade": "12",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=164143"
+        },
+        {
+            "name": "도굴",
+            "genre": "범죄",
+            "country": "한국",
+            "opened": "2020.11.04",
+            "director": "박정배",
+            "casts": [
+                "이재훈",
+                "조우진",
+                "신혜선"
+            ],
+            "grade": "12",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=193194"
+        },
+        {
+            "name": "런",
+            "genre": "스릴러",
+            "country": "미국",
+            "opened": "2020.11.20",
+            "director": "아니쉬 차간티",
+            "casts": [
+                "사라 폴슨",
+                "키애라 앨런"
+            ],
+            "grade": "15",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=190722"
+        },
+        {
+            "name": "원더우먼1984",
+            "genre": "액션",
+            "country": "미국",
+            "opened": "2020.12.23",
+            "director": "패티 재킨슨",
+            "casts": [
+                "갤 가돗",
+                "크리스 파인"
+            ],
+            "grade": "12",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=163834"
+        },
+        {
+            "name": "러브액츄얼리",
+            "genre": "멜로",
+            "country": "미국",
+            "opened": "2003.12.05",
+            "director": "라차드 커티스",
+            "casts": [
+                "휴 그랜트",
+                "리암 니슨",
+                "콜린 퍼스"
+            ],
+            "grade": "15",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=36843"
+        },
+        {
+            "name": "언플랜드",
+            "genre": "드라마",
+            "country": "미국",
+            "opened": "2020.12.17",
+            "director": "척 콘젤만",
+            "casts": [
+                "애슐리 브래처",
+                "브룩스 라이언",
+                "로비아 스캇"
+            ],
+            "grade": "15",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=182525"
+        },
+        {
+            "name": "리플레이",
+            "genre": "드라마",
+            "country": "미국",
+            "opened": "2020.12.16",
+            "director": "데이비드 하인즈",
+            "casts": [
+                "조 퍼디",
+                "엠버 루바스"
+            ],
+            "grade": "12",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=161170"
+        },
+        {
+            "name": "호프",
+            "genre": "드라마",
+            "country": "스웨덴",
+            "opened": "2020.12.17",
+            "director": "마리아 소달",
+            "casts": [
+                "안드레아 베인 호픽",
+                "스텔란 스카스가드"
+            ],
+            "grade": "12",
+            "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=188447"
+        }
+    ]
+}

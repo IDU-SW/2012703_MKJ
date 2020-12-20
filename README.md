@@ -9,5 +9,5 @@ min-app // 프로젝트 이름
 └ src
    ├ index.js
    ├ App.js
-   ├ movie.json
+   └ movie.json
 ~~~

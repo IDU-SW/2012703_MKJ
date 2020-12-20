@@ -8,6 +8,6 @@ min-app // 프로젝트 이름
 │
 └ src
    ├ index.js
-   ├ App.js
-   └ movie.json
+   ├ App.js      // 화면 구성
+   └ movie.json // 데이터 파일
 ~~~
